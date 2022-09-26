@@ -9,6 +9,6 @@ public class App
 {	
     public static void main( String[] args )
     {
-        System.out.println(StringUtils.isAllLowerCase("abd") );
+        System.out.println(StringUtils.isAllLowerCase("abdjasdks") );
     }
 }
